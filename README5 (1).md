@@ -31,7 +31,7 @@ A simple door security system using an **IR sensor, Arduino Uno, buzzer, and LED
 
 **RESULT**
 
-**![][image1]**
+**![](IMG-20260923-WA0001.jpg)**
 
 ### **Notes**
 
